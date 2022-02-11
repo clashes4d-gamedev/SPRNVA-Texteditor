@@ -1,4 +1,0 @@
-- Rewrite how the text is being rendered
-- get the width of a character and move the cursor appropriatly
-- make a textbox
-- wait for a fix for tkinters askopenfilename() function, in the meantime use zenity to open files
